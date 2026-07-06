@@ -43,4 +43,5 @@ I noticed the in game settings menu in deltarune doesnt allow you to set keys li
 
 
 If you encounter any issues or bugs, report them to me at \_aed_ on discord. please message me when you add me, otherwise i may decline the request thinking you are a bot
+
 <img width="370" height="228" alt="image" src="https://github.com/user-attachments/assets/fc8ea1a6-0365-4efb-b17b-f2592a72f51b" />
